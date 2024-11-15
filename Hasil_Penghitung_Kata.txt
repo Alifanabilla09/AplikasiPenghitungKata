@@ -1,0 +1,8 @@
+Teks yang dimasukkan:
+jika kita semua
+
+Hasil Perhitungan:
+Jumlah Kata: 3
+Jumlah Karakter: 15
+Jumlah Kalimat: 1
+Jumlah Paragraf: 1
